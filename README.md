@@ -1,5 +1,5 @@
 # 🖐 김호준 | <a href="mailto:hojoon.dev@gmail.com">Mail</a> | <a href="https://narrow-thistle-294.notion.site/b8850ea63daf44008e3a8b27077f73c0">Projects</a>
-### ✋ 대덕소프트웨어마이스터고등학교에서 서버를 공부하고있는 김호준입니다.
+### 🏛 대덕소프트웨어마이스터고등학교에서 서버를 공부하고있는 김호준입니다.
 ---
 
 
