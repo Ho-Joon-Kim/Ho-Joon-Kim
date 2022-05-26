@@ -1,4 +1,4 @@
-# 🖐 김호준 | <a href="mailto:hojoon.dev@gmail.com">Mail</a> | <a href="https://narrow-thistle-294.notion.site/b8850ea63daf44008e3a8b27077f73c0">Projects</a>
+# 🖐 김호준 | <a href="mailto:hojoon.dev@gmail.com">Mail</a>
 ### 🏛 서버를 공부하고있는 김호준입니다.
 ---
 
